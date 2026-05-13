@@ -1,4 +1,5 @@
 .git
 .github
 .assetsignore
+.wrangler
 wrangler.toml
