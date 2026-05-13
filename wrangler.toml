@@ -1,0 +1,6 @@
+name = "hello-world"
+compatibility_date = "2026-05-13"
+account_id = "40f298fdaae50926ab87b73b3f1b1119"
+
+[assets]
+directory = "./"
